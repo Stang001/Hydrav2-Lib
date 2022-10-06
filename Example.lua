@@ -1,4 +1,4 @@
-local UILib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Stang001/Hydrav2-lib/Library.lua'))()
+local UILib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Stang001/Hydrav2-Lib/main/Library.lua'))()
 local Window = UILib.new("Grand Piece Online", game.Players.LocalPlayer.UserId, "Buyer")
 local Category1 = Window:Category("Main", "http://www.roblox.com/asset/?id=8395621517")
 local SubButton1 = Category1:Button("Combat", "http://www.roblox.com/asset/?id=8395747586")
